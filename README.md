@@ -25,4 +25,4 @@ In this stage, we finalize and group everything the player has learned. We creat
 <br><br>
 [![Con-Kishotenketsu](http://img.youtube.com/vi/QMINA-rWxNE/mqdefault.jpg)](https://www.youtube.com/watch?v=QMINA-rWxNE)
 
-[kishotenketsuPlaylist]:(https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph)
+[kishotenketsuPlaylist]: https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph
