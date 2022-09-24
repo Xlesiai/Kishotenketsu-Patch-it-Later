@@ -7,12 +7,12 @@ Kishotenketsu is a technique on how to tell a story without conflict. It starts 
 ### Introduction
 In this stage, We introduce the player the new mechanic or power to the player. We show what the mechanic can and cannot do. We also provide a safe environment. By providing a safe environment, the player can feel safe to try out any idea that comes to mind.
 <p align = "center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rhsne4mIXDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Intro-Kishotenketsu](http://img.youtube.com/vi/KQLXZpOqRJY/mqdefault.jpg)](https://www.youtube.com/watch?v=KQLXZpOqRJY)
 </p>
 
 ### Development
 In this stage, we test the players skills by removing the safety of the environment and testing their abilities. This means that if the mechanic is spatial then we test out platforming.
-[![Intro-Kishotenketsu](http://img.youtube.com/vi/KQLXZpOqRJY/mqdefault.jpg)](https://www.youtube.com/watch?v=KQLXZpOqRJY)
+[![Dev-Kishotenketsu](http://img.youtube.com/vi/rhsne4mIXDo/mqdefault.jpg)](https://www.youtube.com/watch?v=rhsne4mIXDo)
 
 
 
