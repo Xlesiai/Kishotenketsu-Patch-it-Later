@@ -12,7 +12,7 @@ In this stage, We introduce the player the new mechanic or power to the player. 
 
 ### Development
 In this stage, we test the players skills by removing the safety of the environment and testing their abilities. This means that if the mechanic is spatial then we test out platforming.
-[![Intro-kishotentsu](https://img.youtube.com/KQLXZpOqRJY/maxresdefault.jpeg)](https://www.youtube.com/KQLXZpOqRJY)
+[![Intro-Kishotenketsu](http://img.youtube.com/vi/KQLXZpOqRJY/mqdefault.jpg)](https://www.youtube.com/watch?v=KQLXZpOqRJY)
 
 
 
