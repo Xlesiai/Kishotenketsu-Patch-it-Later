@@ -1,7 +1,7 @@
 # Kishotenketsu Patch it Later
 This level design project was given to our class by our professor. We were tasked to use the technique of Kishotenketsu, used by the game developers in Nintendo, to make a level. using his game that he created.
 
-## Kishotenketsu [kishotenketsuPlaylist]
+## Kishotenketsu [Playlist Link][kishotenketsuPlaylist]
 Kishotenketsu is a technique on how to tell a story without conflict. It starts off with the introduction, then development, a twist, and finally a conclusion. We used this to teach the player a new mechanic or power.
 
 ### Introduction
