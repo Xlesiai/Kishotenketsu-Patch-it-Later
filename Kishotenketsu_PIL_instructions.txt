@@ -1,0 +1,15 @@
+Project 1 begins today: You are to design and implement a series of 4 short levels for "Patch it Later". This series of levels should explore the use of a single mechanic through the "Kishotenketsu" technique described in Mark Brown's video (Introduction, Development, Twist, Conclusion).
+
+Choose just one of the following gameplay mechanics to explore in a series of levels (think of these as 5-1, 5-2, 5-3, and 5-4):
+Bouncer: An object that causes the player to be bounced away on collision. Can be placed anywhere.
+Dropper: A tile that falls shortly after the player lands on it. Can be placed anywhere.
+
+(Examples of how these work in-game are shown in GIFs posted below)
+
+Your 4 levels should introduce and showcase the new mechanic and teach the player how it works. Text should be used sparingly, and only to explain the "rules" for how the object can be placed in the level. You may add any of the mechanics from previous levels (Zappers, Spinners, Movers, etc.), but be sure that you're exploring how it works alongside the new mechanic. The focus should be on the new mechanic.
+
+Before creating levels in Unity, you need to sketch them out either on paper or digitally (yes, this is part of your grade). I recommend starting by deciding what specific thing you want the player to do/learn in each level, and design around making sure that happens. I MUST see your sketches before you begin building the levels in Unity. These are due by next class at the latest.
+
+Sketches due: Sept. 20th @ 9:30 AM
+
+Project due: Sept. 27th @ 9:30 AM
