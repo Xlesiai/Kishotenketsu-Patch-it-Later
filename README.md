@@ -14,6 +14,3 @@ In this stage, we test the players skills by removing the safety of the environm
 
 ### Twist
 In this stage, we give a twist to the mechanic, by providing a different view of the mechanic the players can try something new. We also provide an environment suited for the twist.
-
-### Conclusion
-In this stage, we provide an environment that the player can go all out on everything the player knows about the mechanic. 
