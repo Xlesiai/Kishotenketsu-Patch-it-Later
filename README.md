@@ -12,6 +12,19 @@ In this stage, We introduce the player the new mechanic or power to the player. 
 
 ### Development
 In this stage, we test the players skills by removing the safety of the environment and testing their abilities. This means that if the mechanic is spatial then we test out platforming.
+<p align = "center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KQLXZpOqRJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 ### Twist
 In this stage, we give a twist to the mechanic, by providing a different view of the mechanic the players can try something new. We also provide an environment suited for the twist.
+
+<p align = "center">
+
+</p>
+ ### Conclusion
+ In this stage, we finalize and group everything the player has learned. We create an environment where we test the player on everything including the twist.
+ <p align = "center">
+
+</p>
