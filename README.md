@@ -4,11 +4,9 @@ This level design project was given to our class by our professor. We were taske
 ## Kishotenketsu 
 Kishotenketsu is a technique on how to tell a story without conflict. It starts off with the introduction, then development, a twist, and finally a conclusion. We used this to teach the player a new mechanic or power.
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="http://img.youtube.com/vi/KQLXZpOqRJY/mqdefault.jpg">
-    <source src="https://www.youtube.com/watch?v=KQLXZpOqRJY" type="video/mp4">
-  </video>
-</figure>
+<a href ="https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph">
+    <img src="Doc/demo.gif" width="500"/>
+</a>
 
 ### Introduction
 In this stage, We introduce the player the new mechanic or power to the player. We show what the mechanic can and cannot do. We also provide a safe environment. By providing a safe environment, the player can feel safe to try out any idea that comes to mind.
